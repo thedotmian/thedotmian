@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning C# and CN
 - 📫 How to reach me all IDs are given below 
 - IG : thedotmian
--Email: thedotmian
--YT: thedotmian
--Twitter:thedotmian
-Snapchat: not a snap user
+- Email: thedotmian
+- YT: thedotmian
+- Twitter:thedotmian
+- Snapchat: not a snap user
 
 
 <!---
